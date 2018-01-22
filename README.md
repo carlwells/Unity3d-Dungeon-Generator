@@ -13,3 +13,5 @@ Add doors gameobjects to Room.
 Apply Prefab.
 
 Add prefab to NewDungeonSet.asset room array.
+
+_Open Scenes/DemoScene_
