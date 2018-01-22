@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61f455bd75c134ea4823321b7a65ee75, type: 3}
+  m_Name: NewDungeonSet
+  m_EditorClassIdentifier: 
+  name: 
+  spawns:
+  - {fileID: 114345696209915668, guid: 5448a4981b442458485af48bcf3cd635, type: 2}
+  bosses: []
+  doors:
+  - {fileID: 11476880, guid: 21260ab538f0e4ee486207412caf66bd, type: 2}
+  roomTemplates:
+  - {fileID: 114355997227471306, guid: 07100fc77310c441db813309535b109e, type: 2}
+  - {fileID: 114546978117994730, guid: edfe34e901c7e42449e7f6c09ee4f212, type: 2}
+  - {fileID: 114428883734750556, guid: 0bb186c2e0d584d309cd783d7a6da370, type: 2}
